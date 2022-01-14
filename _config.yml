@@ -1,1 +1,8 @@
 theme: jekyll-theme-slate
+domain: pauliusm.lt
+url: https://pauliusm.lt
+name: PauliusM
+title: Paulius M.
+description: IT consulting services
+github:
+  is_project_page: false
